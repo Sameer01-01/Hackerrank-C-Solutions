@@ -80,7 +80,6 @@ int main(){
 
         per[i]->getdata(); 
     }
-
     for(int i=0;i<n;i++)
         per[i]->putdata();
 
